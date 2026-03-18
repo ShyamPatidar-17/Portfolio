@@ -113,7 +113,7 @@ const Contact = () => {
                 <a href="https://github.com/ShyamPatidar-17" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center text-white hover:bg-black hover:scale-110 transition">
                   <FaGithub />
                 </a>
-                <a href="https://www.linkedin.com/in/shyam-patidar-736b77257/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center text-white hover:bg-blue-600 hover:scale-110 transition">
+                <a href="https://www.linkedin.com/in/shyam-r-patidar-736b77257/" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center text-white hover:bg-blue-600 hover:scale-110 transition">
                   <FaLinkedin />
                 </a>
               </div>

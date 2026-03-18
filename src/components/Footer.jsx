@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 flex flex-col items-center justify-center gap-2">
        
         <p className="flex items-center justify-center gap-1 font-medium text-lg text-gray-700 dark:text-gray-300">
-          Made with <FaHeart className="text-red-500 animate-pulse mx-1" /> by Shyam Patidar
+          Made with <FaHeart className="text-red-500 animate-pulse mx-1" /> by Shyam R Patidar
         </p>
        
         <p className="text-gray-500 dark:text-gray-500 text-sm">

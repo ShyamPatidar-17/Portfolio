@@ -21,7 +21,7 @@ const Navbar = () => {
               </div>
               {/* Text Name - Adapts to Light/Dark Mode */}
               <span className="text-xl font-bold text-[var(--text-main)] transition-all duration-300 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-sky-400 group-hover:to-blue-500">
-                Shyam Patidar
+                Shyam R Patidar
               </span>
             </Link>
           </h1>

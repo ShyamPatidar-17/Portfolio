@@ -77,7 +77,7 @@ const Hero = () => {
           <h1 className="text-5xl lg:text-7xl font-extrabold mb-6 text-white leading-tight tracking-tight">
             Hi, I'm <br/>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-blue-500 to-purple-600 animate-gradient-x">
-              Shyam Patidar
+              Shyam R Patidar
             </span>
           </h1>
 
@@ -134,7 +134,7 @@ const Hero = () => {
             <span className="text-sm font-medium text-gray-400 uppercase tracking-wider hidden md:block">Connect:</span>
             {[
               { Icon: FaGithub, href: "https://github.com/ShyamPatidar-17", color: "hover:text-[#ffffff]" },
-              { Icon: FaLinkedin, href: "https://www.linkedin.com/in/shyam-patidar-736b77257/", color: "hover:text-[#0077b5]" },
+              { Icon: FaLinkedin, href: "https://www.linkedin.com/in/shyam-r-patidar-736b77257/", color: "hover:text-[#0077b5]" },
               { Icon: FaEnvelope, href: "mailto:shyampatidar672@gmail.com", color: "hover:text-[#ea4335]" }
             ].map(({ Icon, href, color }, index) => (
               <motion.a

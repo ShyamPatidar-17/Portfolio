@@ -8,9 +8,9 @@ const Experience = () => {
       id: 1,
       role: "Full Stack & React Native Developer",
       company: "NewTech Fusion, Indore",
-      startDate: "2025-12-01", 
-      endDate: "Present",
-      displayDate: "Dec 2025 - Present",
+      startDate: "2025-11-01", 
+      endDate: "2026-04-01",
+      displayDate: "Nov 2025 - Present",
       description: [
         "Developing scalable web and mobile applications using MongoDB, Express, React, React Native, and Node.js.",
         "Building cross-platform mobile solutions for iOS and Android with seamless native performance.",
